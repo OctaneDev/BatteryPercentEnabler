@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\megal\AndroidStudioProjects\BPE\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="c936c1bd42f0c018c18920c7bec619ef056b24f8">
+        <dex dex="C:\Users\megal\AndroidStudioProjects\BPE\app\build\intermediates\pre-dexed\release\com.android.support-animated-vector-drawable-24.1.1_e71d8f4b2a850c1bdf9c59ec0e9fa8f78eccac3c.jar" />
+    </item>
+    <item
+        jar="C:\Users\megal\AndroidStudioProjects\BPE\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-clearcut\9.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="90eeba67a669f8fb24db0f821ef81703fe7a02bc">
+        <dex dex="C:\Users\megal\AndroidStudioProjects\BPE\app\build\intermediates\pre-dexed\release\com.google.android.gms-play-services-clearcut-9.2.1_4a9df89a82d01bad3d1c4a84bf02f32f0acbf814.jar" />
+    </item>
+    <item
+        jar="C:\Users\megal\AndroidStudioProjects\BPE\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads-lite\9.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="310ef01419435979cc82847cf085799a8d00e7e9">
+        <dex dex="C:\Users\megal\AndroidStudioProjects\BPE\app\build\intermediates\pre-dexed\release\com.google.android.gms-play-services-ads-lite-9.2.1_d54810d32ccf9d4d968d1bbc9bea226d407d2732.jar" />
+    </item>
+    <item
+        jar="C:\Users\megal\AndroidStudioProjects\BPE\app\build\intermediates\exploded-aar\com.android.support\support-v13\24.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="327f68d58bb39fb8b585150596b313541f8fdb87">
+        <dex dex="C:\Users\megal\AndroidStudioProjects\BPE\app\build\intermediates\pre-dexed\release\com.android.support-support-v13-24.1.1_08dd8b9b9553e0299e52a830a7aeeec2d4022b1d.jar" />
+    </item>
+    <item
+        jar="C:\Users\megal\AndroidStudioProjects\BPE\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.1.1\jars\libs\internal_impl-24.1.1.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="f78c2f395cb096f9dc1dc07e729922b8fcd3c4f5">
+        <dex dex="C:\Users\megal\AndroidStudioProjects\BPE\app\build\intermediates\pre-dexed\release\internal_impl-24.1.1_1debd25fa623185ccc7534c1c665334112b7efcf.jar" />
+    </item>
+    <item
+        jar="C:\Users\megal\AndroidStudioProjects\BPE\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gass\9.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="081ced8ab77e606b6743c27cfe93dc450447b046">
+        <dex dex="C:\Users\megal\AndroidStudioProjects\BPE\app\build\intermediates\pre-dexed\release\com.google.android.gms-play-services-gass-9.2.1_f1fe25498f14b249a468baf390459e508381d3d1.jar" />
+    </item>
+    <item
+        jar="C:\Users\megal\AndroidStudioProjects\BPE\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="819c2c3a4fb135e085445d11131d069cf9c32b2a">
+        <dex dex="C:\Users\megal\AndroidStudioProjects\BPE\app\build\intermediates\pre-dexed\release\com.google.android.gms-play-services-tasks-9.2.1_37b7f8f4de0b0ad20dd4cc1a2cc7497523f51db6.jar" />
+    </item>
+    <item
+        jar="C:\Users\megal\AndroidStudioProjects\BPE\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\9.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="6d2f508d1a9fa0fbe1653595e484800c08afb42c">
+        <dex dex="C:\Users\megal\AndroidStudioProjects\BPE\app\build\intermediates\pre-dexed\release\com.google.android.gms-play-services-ads-9.2.1_ff205372b6d1c38968fa75eea4f2eadefe442d79.jar" />
+    </item>
+    <item
+        jar="C:\Users\megal\AndroidStudioProjects\BPE\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="6d7d803871e3203465f71a163e7af104f807b446">
+        <dex dex="C:\Users\megal\AndroidStudioProjects\BPE\app\build\intermediates\pre-dexed\release\com.android.support-support-v4-24.1.1_3250fc82e523bee59937b1dd8b8587e09e843ee2.jar" />
+    </item>
+    <item
+        jar="C:\Users\megal\AndroidStudioProjects\BPE\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="6b896c1067633db41e9c10a3a5d0919c5c4cfc8c">
+        <dex dex="C:\Users\megal\AndroidStudioProjects\BPE\app\build\intermediates\pre-dexed\release\com.google.android.gms-play-services-basement-9.2.1_985b915e40302fe58e4f395c8ae77f464db15e31.jar" />
+    </item>
+    <item
+        jar="C:\Users\megal\AndroidStudioProjects\BPE\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\9.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="6a0f2d219f82db499ac03d5a985c4eb3e83fc422">
+        <dex dex="C:\Users\megal\AndroidStudioProjects\BPE\app\build\intermediates\pre-dexed\release\com.google.firebase-firebase-analytics-9.2.1_43c2dac250ade7bdc575c7ebdc4d5a6b06dd2b9d.jar" />
+    </item>
+    <item
+        jar="C:\Users\megal\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.1.1\support-annotations-24.1.1.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="3af19f153122737b372622fa6c81dd11a1c6b999">
+        <dex dex="C:\Users\megal\AndroidStudioProjects\BPE\app\build\intermediates\pre-dexed\release\support-annotations-24.1.1_04c00093a0b02f6594d482bc6ed4a49b6e171d8e.jar" />
+    </item>
+    <item
+        jar="C:\Users\megal\AndroidStudioProjects\BPE\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="3627eacd7f7cafb5e8ae683992e7b2f9b7dcab1a">
+        <dex dex="C:\Users\megal\AndroidStudioProjects\BPE\app\build\intermediates\pre-dexed\release\com.google.firebase-firebase-common-9.2.1_225bec1a79c35c1a54ee4131c529a72143ff7acc.jar" />
+    </item>
+    <item
+        jar="C:\Users\megal\AndroidStudioProjects\BPE\app\build\intermediates\exploded-aar\com.android.support\support-v13\24.1.1\jars\libs\internal_impl-24.1.1.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="ca74722504f90166103d01edcdfdb93192eb1cba">
+        <dex dex="C:\Users\megal\AndroidStudioProjects\BPE\app\build\intermediates\pre-dexed\release\internal_impl-24.1.1_0027aa7a4aeaea5b6bea1b41560c9ec559ad132b.jar" />
+    </item>
+    <item
+        jar="C:\Users\megal\AndroidStudioProjects\BPE\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\9.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="5337354083e89ed67151859ab0b6b80935c60eaf">
+        <dex dex="C:\Users\megal\AndroidStudioProjects\BPE\app\build\intermediates\pre-dexed\release\com.google.firebase-firebase-analytics-impl-9.2.1_f391a60355236c4707c4be0638a5ae543961a6db.jar" />
+    </item>
+    <item
+        jar="C:\Users\megal\AndroidStudioProjects\BPE\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="f62e763609f65e47dc6c498760a4accf02776788">
+        <dex dex="C:\Users\megal\AndroidStudioProjects\BPE\app\build\intermediates\pre-dexed\release\com.android.support-support-vector-drawable-24.1.1_a0685df51083984f1e1a0cca40f46ac18260ef17.jar" />
+    </item>
+    <item
+        jar="C:\Users\megal\AndroidStudioProjects\BPE\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="421b36cf4f0d3bbd75e8f28647fccf36674ef049">
+        <dex dex="C:\Users\megal\AndroidStudioProjects\BPE\app\build\intermediates\pre-dexed\release\com.google.android.gms-play-services-base-9.2.1_c59cf10e870baced5ff71ca6c82d56b937d77d5b.jar" />
+    </item>
+    <item
+        jar="C:\Users\megal\AndroidStudioProjects\BPE\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="1256c10604bb098490eab070d76754ac5ceab35c">
+        <dex dex="C:\Users\megal\AndroidStudioProjects\BPE\app\build\intermediates\pre-dexed\release\com.android.support-appcompat-v7-24.1.1_01f813d5c2110900231ab01e6e1f03ab6243fa42.jar" />
+    </item>
+    <item
+        jar="C:\Users\megal\AndroidStudioProjects\BPE\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="d41b5d21cc9dd7d210f0ae82ac509ba7f091d611">
+        <dex dex="C:\Users\megal\AndroidStudioProjects\BPE\app\build\intermediates\pre-dexed\release\com.google.firebase-firebase-iid-9.2.1_35308158fe2d4285b92ca4918dc449dc164f0aed.jar" />
+    </item>
+
+</items>
