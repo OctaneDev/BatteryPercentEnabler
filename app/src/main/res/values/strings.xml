@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hi! Click the button to enable the battery percent.</string>
+    <string name="app_name">Percent Enabler</string>
+    <string name="banner_ad_unit_id">ca-app-pub-5164171001589422/9857178194</string>
+    <string name="note_you_do_not_need_this_app_installed_to_keep_the_percent_after_a_reboot">Note: You do not need this app installed to keep the percent after a reboot.</string>
+    <string name="reboot_requires_root">Reboot (REQUIRES ROOT)</string>
+    <string name="enable">Enable</string>
+
+</resources>

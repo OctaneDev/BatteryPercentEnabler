@@ -1,0 +1,218 @@
+{
+  "project_info": {
+    "project_number": "313084604941",
+    "firebase_url": "https://admob-app-id-3904290190.firebaseio.com",
+    "project_id": "admob-app-id-3904290190",
+    "storage_bucket": "admob-app-id-3904290190.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:313084604941:android:85f9943d345f7436",
+        "android_client_info": {
+          "package_name": "biz.bigtooth.naturewallpapers"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "313084604941-vr3a9k5gm35afp2jdhf1b0ke42ti64qc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUCPl1l554lcth2T1kGPF9q5JlsCZlhQk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:313084604941:android:b43d5fbbf38ad196",
+        "android_client_info": {
+          "package_name": "com.bigtooth.apps.unlockandroid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "313084604941-vr3a9k5gm35afp2jdhf1b0ke42ti64qc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUCPl1l554lcth2T1kGPF9q5JlsCZlhQk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:313084604941:android:cb806d115c56921d",
+        "android_client_info": {
+          "package_name": "biz.bigtooth.tetherunlock"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "313084604941-9qckfi7j1qf5mi57numn60ojne3hen4u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "biz.bigtooth.tetherunlock",
+            "certificate_hash": "A2DCCB136985FA1EC67D7297E671B5ECF88EB122"
+          }
+        },
+        {
+          "client_id": "313084604941-vr3a9k5gm35afp2jdhf1b0ke42ti64qc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUCPl1l554lcth2T1kGPF9q5JlsCZlhQk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:313084604941:android:5009ae5f1948cd9f",
+        "android_client_info": {
+          "package_name": "biz.bigtooth.counter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "313084604941-dbpot9ibrt1rh2s9kj0ut3s0e50ju76p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "biz.bigtooth.counter",
+            "certificate_hash": "D061C2C20878D8441A170D26BF7FB90856521B37"
+          }
+        },
+        {
+          "client_id": "313084604941-vr3a9k5gm35afp2jdhf1b0ke42ti64qc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUCPl1l554lcth2T1kGPF9q5JlsCZlhQk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "313084604941-vr3a9k5gm35afp2jdhf1b0ke42ti64qc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:313084604941:android:b393fe6722ed5263",
+        "android_client_info": {
+          "package_name": "com.bigtooth.apps.burncheck"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "313084604941-vr3a9k5gm35afp2jdhf1b0ke42ti64qc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUCPl1l554lcth2T1kGPF9q5JlsCZlhQk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:313084604941:android:b22048241a47f064",
+        "android_client_info": {
+          "package_name": "com.bigtooth.apps.perenable"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "313084604941-vr3a9k5gm35afp2jdhf1b0ke42ti64qc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUCPl1l554lcth2T1kGPF9q5JlsCZlhQk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
